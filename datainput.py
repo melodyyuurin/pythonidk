@@ -1,3 +1,5 @@
+// inputing data variable and using a loop.
+
 name = input("whats your name? ")
 print("Cool name !")
 
